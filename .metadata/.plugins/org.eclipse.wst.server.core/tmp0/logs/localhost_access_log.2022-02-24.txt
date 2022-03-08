@@ -1,0 +1,15 @@
+127.0.0.1 - - [24/Feb/2022:21:03:49 -0300] "GET / HTTP/1.1" 404 764
+0:0:0:0:0:0:0:1 - - [24/Feb/2022:21:03:52 -0300] "GET /PrimeiroProjeto/ HTTP/1.1" 200 1187
+0:0:0:0:0:0:0:1 - - [24/Feb/2022:21:03:52 -0300] "GET /PrimeiroProjeto/CSS/style.css HTTP/1.1" 200 805
+0:0:0:0:0:0:0:1 - - [24/Feb/2022:21:03:52 -0300] "GET /PrimeiroProjeto/Imagens/menina_compras.jpg HTTP/1.1" 200 65171
+0:0:0:0:0:0:0:1 - - [24/Feb/2022:21:03:52 -0300] "GET /PrimeiroProjeto/Imagens/site.jpg HTTP/1.1" 200 22432
+0:0:0:0:0:0:0:1 - - [24/Feb/2022:21:03:52 -0300] "GET /PrimeiroProjeto/Imagens/celular.jpg HTTP/1.1" 200 90205
+0:0:0:0:0:0:0:1 - - [24/Feb/2022:21:03:52 -0300] "GET /PrimeiroProjeto/Imagens/produtos.jpg HTTP/1.1" 200 97359
+0:0:0:0:0:0:0:1 - - [24/Feb/2022:21:03:52 -0300] "GET /PrimeiroProjeto/Imagens/bolsas.jpg HTTP/1.1" 200 54269
+0:0:0:0:0:0:0:1 - - [24/Feb/2022:21:03:52 -0300] "GET /PrimeiroProjeto/Imagens/mulher_compras.jpg HTTP/1.1" 200 41448
+0:0:0:0:0:0:0:1 - - [24/Feb/2022:21:04:58 -0300] "GET /PrimeiroProjeto/produtos.jsp HTTP/1.1" 200 1633
+0:0:0:0:0:0:0:1 - - [24/Feb/2022:21:04:58 -0300] "GET /PrimeiroProjeto/Imagens/camisamasculina.jpg HTTP/1.1" 200 86239
+0:0:0:0:0:0:0:1 - - [24/Feb/2022:21:04:58 -0300] "GET /PrimeiroProjeto/Imagens/CamisasFemininas.jpg HTTP/1.1" 200 29846
+0:0:0:0:0:0:0:1 - - [24/Feb/2022:21:04:58 -0300] "GET /PrimeiroProjeto/Imagens/xicaraAzul.jpg HTTP/1.1" 200 50528
+0:0:0:0:0:0:0:1 - - [24/Feb/2022:21:05:02 -0300] "GET /PrimeiroProjeto/contato.jsp HTTP/1.1" 200 877
+0:0:0:0:0:0:0:1 - - [24/Feb/2022:21:05:04 -0300] "GET /PrimeiroProjeto/index.jsp HTTP/1.1" 200 1187
