@@ -24,7 +24,7 @@
 	
 	  <ul class="example">
 	  
-        <li class="example-item item_um" ><strong>Especialidade:</strong>Castração<br>
+        <li class="example-item item_um"><strong>Especialidade:</strong>Castração<br>
         <strong>Medico:</strong>João Jose<br>
         <strong>Horario:</strong>seg e ter de 08:00 a 17:00<br>  <img class="imgx" src="imagem/medico01.jpg" width="280" height="280"></li>
         <p> A castração é uma medida preventiva muito importante para a saúde do seu pet. 
