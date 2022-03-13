@@ -9,4 +9,24 @@
     <welcome-file>default.jsp</welcome-file>
     <welcome-file>default.htm</welcome-file>
   </welcome-file-list>
+  <servlet>
+    <description></description>
+    <display-name>Cadastro</display-name>
+    <servlet-name>Cadastro</servlet-name>
+    <servlet-class>servlets.Cadastro</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Cadastro</servlet-name>
+    <url-pattern>/Cadastro</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>cadastro</display-name>
+    <servlet-name>cadastro</servlet-name>
+    <servlet-class>servlets.Cadastro</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>cadastro</servlet-name>
+    <url-pattern>/cadastro</url-pattern>
+  </servlet-mapping>
 </web-app>

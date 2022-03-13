@@ -1,5 +1,5 @@
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset= UTF-8">
@@ -10,13 +10,16 @@
 	<div id="topo">
 		<h1>Produtos</h1>
 	</div>
+	
 	<div id="menu_lateral">
 		<ul>
 			<li><a href="index.jsp">Home</a></li>
 			<li><a href="produtos.jsp">Produtos</a></li>
 			<li><a href="contato.jsp">Contato</a></li>
+			<li><a href="Cadastro.jsp">Cadastro</a></li>
 		</ul>
 	</div>
+	
 	<div id="conteudo">
 		<div class="produtos">
 			<div class="produto_imagem">
@@ -57,5 +60,10 @@
 				</ul>
 			</div>
 		</div>
+		
+		<div id="rodape">
+		Todos os direitos reservados © 2018<br /> Desenvolvido por Amanda
+		Souza
+	</div>
 </body>
 </html>

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
 <meta charset="UTF-8">
@@ -16,6 +16,7 @@
 			<li><a href="index.jsp">Home</a></li>
 			<li><a href="produtos.jsp">Produtos</a></li>
 			<li><a href="contato.jsp">Contato</a></li>
+			<li><a href="Cadastro.jsp">Cadastro</a></li>
 		</ul>
 	</div>
 
